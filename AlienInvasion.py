@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 import sys
 import pygame
 from pygame.sprite import Group
