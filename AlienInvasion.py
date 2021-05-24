@@ -2,10 +2,10 @@ import sys
 import pygame
 from pygame.sprite import Group
 from pygame import mixer
-from settings import Settings
-from ship import Ship
-from alien import Alien
-import game_function as gf
+from essentials.settings import Settings
+from essentials.ship import Ship
+from essentials.alien import Alien
+import essentials.game_function as gf
 
 
 def run_game():

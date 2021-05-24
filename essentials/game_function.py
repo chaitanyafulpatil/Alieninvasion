@@ -1,7 +1,7 @@
 import sys
 import pygame
-from bullet import Bullet
-from alien import Alien
+from essentials.bullet import Bullet
+from essentials.alien import Alien
 
 def check_keydown_events(event, ai_settings, screen, ship, bullets):
 	if event.key == pygame.K_d:
