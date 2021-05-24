@@ -9,7 +9,7 @@ if [ "$(uname -m)" = "i686" ]; then
 if [ "$(uname -m)" = "aarch64" ]; then
                 sudo apt update
                 sudo apt upgrade -y
-                sudo apt install -y python3-dev gcc python3>
+                sudo apt install -y python3-dev gcc python3-pygame
         fi
 
 if [ "$(uname -m)" = "armv7l" ]; then
