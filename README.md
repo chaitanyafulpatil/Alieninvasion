@@ -14,4 +14,5 @@ step 4 : chmod +x pygameinstall.sh
 
 step 5 : ./pygameinstall.sh
 
-Now just wait untill the process completes and after its completion pygame must be installed on your system if the script no matter what the system architecture type your is.
+
+After Completion of the script pygame will be installed on your system
